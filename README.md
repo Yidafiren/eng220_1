@@ -3,6 +3,4 @@
 hey how r u
 abc
 def
-ghi
-
 
