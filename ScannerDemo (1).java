@@ -2,6 +2,9 @@
 // IntelliJ will offer to put an import line in for you when you use another class.
 import java.util.Scanner;
 
+#Hi This is your twin:)
+
+
 /**
  * A small program to demonstrate how to read values typed by the user.
  * Excessively commented to explain what is going on.
